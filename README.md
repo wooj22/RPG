@@ -9,3 +9,5 @@ Unity 엔진을 활용하여 RPG 시스템 구현 공부를 목적으로 진행�
 기획 기간 : 2025년 1월 11일 ~
 
 개발 기간 : -
+
+https://www.notion.so/wooj22/RPG-Project-1786c921e70a8061a9a8da42bfcc3397?pvs=4 
