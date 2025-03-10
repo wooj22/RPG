@@ -10,4 +10,7 @@ Unity 엔진을 활용하여 RPG 시스템 구현 공부를 목적으로 진행�
 
 개발 기간 : -
 
+❗게임인재원에 들어와서 개인 포폴 작업 중지합니다. . .
+
+
 https://www.notion.so/wooj22/RPG-Project-1786c921e70a8061a9a8da42bfcc3397?pvs=4 
